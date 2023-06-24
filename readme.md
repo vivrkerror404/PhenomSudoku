@@ -68,3 +68,26 @@ To start a game, make a POST request to `/` endpoint.
 To insert an element into the Sudoku grid, make a POST request to `/move` endpoint with the necessary data.
 
 Please refer to the API documentation for the detailed request and response formats.
+
+
+## GitHub Repository
+
+The source code for this Sudoku Game API is available on GitHub at the following URL:
+
+[GitHub Repository](https://github.com/vivrkerror404/PhenomSudoku)
+
+## How to Run
+
+Follow the steps below to run the Sudoku Game API:
+
+1. Install the dependencies by running the command: `npm install`.
+
+2. Start the server by running the command: `npm start`.
+
+3. The server will start at `http://localhost:3000`.
+
+4. Import the above Postman collection and trigger start and move endpoints
+
+
+
+
